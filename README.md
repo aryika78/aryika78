@@ -1,1 +1,1 @@
-My first repo
+Hey there! It's Aryika
