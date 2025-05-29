@@ -2,7 +2,7 @@
 
 <p align="center">A passionate CSE student who enjoys building projects and exploring new technologies 🌱</p>
 
--🔭 I’m currentlybuilding a **Customer Review System, a Grocery App, and custom ML models**
+- 🔭 I’m currentlybuilding a **Customer Review System, a Grocery App, and custom ML models**
 
 - 🌱 I’m currently learning **Android, MERN Stack, Machine Learning**
 
