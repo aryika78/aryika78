@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryika Patni</h1>
 
-<p align="center">🚀 <p align="center">A passionate CSE student who enjoys building projects and exploring new technologies.</p>
-</p>
+<p align="center">🚀 A passionate CSE student who enjoys building projects and exploring new technologies.</p>
+
 
 - 🔭 I’m currently working on:  
   **Customer Review System**, **Grocery App**, and **Custom ML Models**
