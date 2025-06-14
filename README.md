@@ -3,15 +3,16 @@
 <p align="center">🚀 A passionate CSE student who enjoys building projects and exploring new technologies.</p>
 
 - 🔭 Projects in Progress:
-**TomatoDiagnose** – a deep learning-based system for early detection of tomato leaf diseases,
-**GroceMate** – an Android-based grocery shopping application, and
-**Custom ML Models** – building ML models from scratch to understand core concepts.
+  - **TomatoDiagnose** – A deep learning-based system for early detection of tomato leaf diseases  
+  - **GroceMate** – An Android-based grocery shopping application  
+  - **Custom ML Models** – Building ML models from scratch to understand core concepts
+
   
 - 🌱 Currently learning:
 **Android App Development with Java**, **MERN Stack**, and **Machine Learning**
 
-- 📫 Reach me at:  
-  **patniaryika@gmail.com**
+- 📫 Reach me at: **patniaryika@gmail.com**
+
 
 ---
 
@@ -27,9 +28,7 @@
 
 ---
 
-### 🛠️ Languages & Tools:
-
-#### 👩‍💻 Languages
+#### 👩‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -52,6 +51,9 @@
 ![Express.js](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 
+#### 🌐 Full-Stack Web App Development  
+![.NET Core MVC](https://img.shields.io/badge/.NET_Core_MVC-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+
 #### 📱 Mobile App Development  
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 
@@ -71,14 +73,15 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-#### 🌐 Full-Stack Web App Development  
-![.NET Core MVC](https://img.shields.io/badge/.NET_Core_MVC-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-
 ---
 
 ### 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryika78&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryika78&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryika78&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryika78&" alt="Streak Stats" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryika78&show_icons=true&locale=en" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryika78&" alt="Streak Stats" />
+</p>
